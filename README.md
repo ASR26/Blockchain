@@ -18,5 +18,6 @@
  "recipient": "someone-other-address",
  "amount": 5
 }' "http://localhost:5000/transactions/new"</pre></p>
-<p>Para la creación de este proyecto se ha seguido la información de varias fuentes, en especial de la siguiente página, la cual explica de forma muy clara el funcionamiento de la blockchain a nivel técnico:<p>
-<a href="https://hackernoon.com/learn-blockchains-by-building-one-117428612f46">Cómo hacer una blockchain</a>
+<h3>Fuentes</h3>  
+  <p>Para la creación de este proyecto se ha seguido la información de varias fuentes, en especial de la siguiente página, la cual explica de forma muy       clara el funcionamiento de la blockchain a nivel técnico:<p>
+  <a href="https://hackernoon.com/learn-blockchains-by-building-one-117428612f46">Cómo hacer una blockchain</a>
